@@ -1,0 +1,11 @@
+{
+  "name": "commuter-forecast-01",
+  "version": "1.0.0",
+  "description": "One line of weather forecast for a city that isn't, for make.fun's Charm the Commuter bounty.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
